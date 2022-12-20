@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: ru.mail.dobermin.CheckRunner
+Class-Path: junit-platform-commons-1.9.0.jar jackson-databind-2.14.0.jar
+  jackson-core-2.14.0.jar jackson-annotations-2.14.0.jar junit-platform-
+ engine-1.9.0.jar junit-jupiter-api-5.9.0.jar opentest4j-1.2.0.jar junit
+ -jupiter-engine-5.9.0.jar
+
